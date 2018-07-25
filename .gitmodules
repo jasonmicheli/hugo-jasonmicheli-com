@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:jasonmicheli/jasonmicheli.github.io.git
+[submodule "themes/sam"]
+	path = themes/sam
+	url = git@github.com:vickylai/hugo-theme-sam.git
