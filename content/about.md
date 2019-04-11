@@ -7,6 +7,8 @@ date: 2018-06-11T21:47:33-04:00
 
 // PhD in Hebrew and Semitics from the University of Wisconsin
 
+// PC USA Teaching Elder
+
 // Email: <script type="text/javascript">
 //<![CDATA[
 <!--
